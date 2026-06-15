@@ -1,5 +1,5 @@
 # App for building Fuzzy Cognitive Maps
 # How to use
-## Add concepts 
-## Add weights
-## Push "results" button
+1. Add concepts 
+2. Add weights
+3. Push "results" button
